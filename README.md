@@ -1,3 +1,9 @@
+<div>
+<img align="right" alt="Rafa-pic" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France"">
+<img align="right" alt="Rafa-pic" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States"">
+<img align="right" alt="Rafa-pic" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil"">  
+</div>
+
 <h3 align="center">
   Welcome to Gabriel Trombini's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
