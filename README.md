@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Gabriel Trombini / Je m'appelle Gabriel Trombini / Je suis Gabriel Trombini
+### I'm Gabriel Trombini / Je m'appelle Gabriel Trombini / Eu sou o Gabriel Trombini
 
 <div align="center">
   <a href="https://github.com/Str0mG">
