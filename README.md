@@ -1,4 +1,4 @@
-### Hi there I'm Gabriel Trombini 👋
+<h2 align="center"> Hey there, I'm Gabriel Trombini 👋 </h2>
 
 <div align="center">
   <a href="https://github.com/Str0mG">
