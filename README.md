@@ -29,6 +29,8 @@
   <a href = "mailto:gabrieltrombini793@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-trombini-20212b188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
+  <i class="fa-brands fa-twitter"></i>
+  
 ![Snake animation](https://github.com/Str0mG/Str0mG/blob/output/github-contribution-grid-snake.svg)
 
 </div>
