@@ -1,7 +1,7 @@
 <div>
-<img align="right" alt="Rafa-pic" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France"">
-<img align="right" alt="Rafa-pic" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States"">
-<img align="right" alt="Rafa-pic" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil"">  
+<img align="right" alt="French" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France"">
+<img align="right" alt="USA" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States"">
+<img align="right" alt="Brazil" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil"">  
 </div>
 
 <h3 align="center">
