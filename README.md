@@ -20,7 +20,7 @@
 </div>
     
 <div style="display: inline_block" align="center"><br>
-  <img align="center" src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <img align="center" src="https://skillicons.dev/icons?i=py,r,mongodb,html,css,js,ts,react,cpp,selenium,unity,git,docker,aws," />
   </div>
   
   ##
