@@ -14,7 +14,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Engineering%20Student;DataOps%20and%20Full-Stack%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22"></a>
 </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <div align="center">
   
 <!--   <a href="https://github.com/Str0mG">
@@ -35,7 +35,8 @@
   <a href="https://www.linkedin.com/in/gabriel-trombini-20212b188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   <i class="fa-brands fa-twitter"></i>
-  
+ <!-- 
 ![Snake animation](https://github.com/Str0mG/Str0mG/blob/output/github-contribution-grid-snake.svg)
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+ -->
 </div>
