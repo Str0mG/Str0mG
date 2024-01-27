@@ -14,6 +14,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Engineering%20Student;DataOps%20and%20Full-Stack%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22"></a>
 </p>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <div align="center">
   <a href="https://github.com/Str0mG">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Str0mG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
